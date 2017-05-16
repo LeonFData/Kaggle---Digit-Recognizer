@@ -8,8 +8,8 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
 ### Practice Skills
-Computer vision fundamentals including simple neural networks
-Classification methods such as SVM and K-nearest neighbors
+    Computer vision fundamentals including simple neural networks
+    Classification methods such as SVM and K-nearest neighbors
 
 
 ## Goal
@@ -21,10 +21,10 @@ Metric
 
     This competition is evaluated on the categorization accuracy of your predictions (the percentage of images you get correct).
 
-Submission File Format
+
 The file should contain a header and have the following format:
-ImageId,Label
-1,0
-2,0
-3,0
-etc.
+    ImageId,Label
+    1,0
+    2,0
+    3,0
+    etc.
