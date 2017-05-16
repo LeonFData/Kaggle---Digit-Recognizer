@@ -22,9 +22,9 @@ Metric
     This competition is evaluated on the categorization accuracy of your predictions (the percentage of images you get correct).
 
 
-The file should contain a header and have the following format:
-    ImageId,Label
-    1,0
-    2,0
-    3,0
-    etc.
+    The file should contain a header and have the following format:
+         ImageId,Label
+         1,0
+         2,0
+         3,0
+         etc.
